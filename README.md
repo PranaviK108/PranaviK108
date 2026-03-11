@@ -21,7 +21,7 @@ I am passionate about using computational approaches to solve biological problem
 `Python` • `R` • `Bash`
 
 ### Bioinformatics & Data Analysis
-`NGS Data Analysis` • `Sequence Analysis` • `Genomics` • `Transcriptomics` • `Exomics`
+`NGS Data Analysis` • `Sequence Analysis` • `Genomics` • `Transcriptomics` • `Exome Analysis • `Microbial WGS
 
 ### Tools
 `Linux`
