@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋 I'm Pranavi Khandare
 
-<!--
-**PranaviK108/PranaviK108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 Bioinformatics Enthusiast | 🔬 Pipeline Developer | 💻 Computational Biology  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍🔬 About Me
+I am **Pranavi Khandare**, a Bioinformatics professional with a **Master's degree in Bioinformatics**.  
+I am passionate about using computational approaches to solve biological problems and developing **efficient bioinformatics pipelines** for analyzing complex biological data.
+
+- 🧬 Field: Bioinformatics  
+- 🎓 Master's Degree in Bioinformatics  
+- 💡 Interested in building scalable **bioinformatics workflows and pipelines**  
+- 🔬 Exploring computational approaches to biological data analysis  
+
+---
+
+## 🛠️ Skills & Tools
+
+### Programming & Scripting
+`Python` • `R` • `Bash`
+
+### Bioinformatics & Data Analysis
+`NGS Data Analysis` • `Sequence Analysis` • `Genomics` • `Transcriptomics` • `Exomics`
+
+### Tools
+`Linux`
+
+---
+
+## 🌱 Current Focus
+- Developing **bioinformatics pipelines**
+- Automating **genomics and sequencing workflows**
+- Improving reproducibility in computational biology
+
+---
+
+
+
+---
+
+⭐ *Building computational solutions for biological discovery.*
